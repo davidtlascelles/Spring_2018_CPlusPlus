@@ -1,0 +1,30 @@
+Peters, Kevin
+18
+24
+20
+76
+88
+Barth, Mary
+25
+25
+20
+96
+99
+James, Chris
+15
+16
+20
+58
+75
+Student, Lousy
+2
+2
+4
+4
+6
+Adams, Larry
+15
+14
+18
+77
+83
